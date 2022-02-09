@@ -1,0 +1,5 @@
+region                     = "us-east-1"
+environment                = "dev"
+account_id                 = "544859213149"
+profile                    = "application"
+storage_bucket_access_role = "arn:aws:iam::969650406331:role/ec2_s3_demo_bucket_access_role"
